@@ -13,7 +13,7 @@ spec:
         git-clone completes before we try to read from the Workspace.
       - Using a volumeClaimTemplate Volume as a Workspace.
       - Avoiding hard-coded paths by using a Workspace's path
-        variable instead.
+        variable instead. Georges
   params:
   - name: repo-url
     type: string
